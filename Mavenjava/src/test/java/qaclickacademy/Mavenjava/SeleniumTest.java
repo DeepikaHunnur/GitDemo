@@ -16,4 +16,14 @@ public class SeleniumTest {
 	public void Elementsuitest() {
 		System.out.println("====Inside Elementsuitest ======");
 	}
+	
+	@Test
+	public void suitest() {
+		System.out.println("====Inside Elementsuitest ======");
+	}
+	
+	@Test
+	public void Trialsuitest() {
+		System.out.println("====Inside Elementsuitest ======");
+	}
 }

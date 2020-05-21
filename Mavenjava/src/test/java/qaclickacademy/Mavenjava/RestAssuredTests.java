@@ -21,4 +21,9 @@ public class RestAssuredTests {
 	public void deleteTwitter() {
 		System.out.println("====== Inside deleteTwitter ======");
 	}
+	
+	@Test
+	public void deleteTwitterHandle() {
+		System.out.println("====== Inside deleteTwitter Handle ======");
+	}
 }
