@@ -8,6 +8,8 @@ public class SeleniumTest {
 	@Test
 	public void Browsertest() {
 		System.out.println("====Inside Browsertest =======");
+		
+		System.out.println("====Inside WebBrowser Automation =======");
 	}
 
 	@Test
