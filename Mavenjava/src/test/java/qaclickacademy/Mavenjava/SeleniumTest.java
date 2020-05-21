@@ -26,4 +26,9 @@ public class SeleniumTest {
 	public void Trialsuitest() {
 		System.out.println("====Inside Elementsuitest ======");
 	}
+	
+	@Test
+	public void AmericanTrialsuitest() {
+		System.out.println("====Inside Elementsuitest ======");
+	}
 }

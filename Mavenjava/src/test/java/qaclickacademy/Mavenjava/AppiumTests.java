@@ -17,4 +17,10 @@ public class AppiumTests {
 	public void ForeignAndroidApp() {
 		System.out.println("====== Inside ForeignAndroidApp =====");
 	}
+	
+	@Test 
+	public void AmericanAppAndroidApp() {
+		System.out.println("====== Inside ForeignAndroidApp =====");
+	}
+	
 }
