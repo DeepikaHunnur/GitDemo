@@ -6,6 +6,8 @@ public class RestAssuredTests {
 	@Test
 	public void postJira() {
 		System.out.println("====== Inside postJira ====== ");
+		System.out.println("====== Inside postJira 2 ====== ");
+		System.out.println("====== Inside postJira 3 ====== ");
 		
 	}
 
